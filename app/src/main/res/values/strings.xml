@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="ingrese_clave">Ingrese Clave</string>
+    <string name="iniciar_seccion">Iniciar Seccion</string>
+    <string name="salir">Salir</string>
+    <string name="copyright_cineflix_chile_2022_todos_los_derechos_reservados">Copyright CineFlix chile 2022 Todos los derechos reservados</string>
+    <string name="face">face</string>
+    <string name="yotu">youtu</string>
+    <string name="twiter">twiter</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
