@@ -16,6 +16,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Proyecto">
         <activity
+            android:name=".Medios_act"
+            android:exported="false" />
+        <activity
             android:name=".Clases_act"
             android:exported="false" />
         <!--

@@ -46,4 +46,9 @@ public class Home_act extends AppCompatActivity {
 
         startActivity(i);
     }
+    public void mediosDePagos(View view)
+    {
+        Intent i = new Intent(this , Medios_act.class);
+        startActivity(i);
+    }
 }

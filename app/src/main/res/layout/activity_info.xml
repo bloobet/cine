@@ -43,7 +43,7 @@
                 android:layout_width="243dp"
                 android:layout_height="121dp"
                 android:layout_marginTop="32dp"
-                android:text="TextView"
+                android:text="CineFlix se agradece su apoyo y por eso ante cualque duda o problema puede contactarnos a nuestro numero que esta mas abajo o buscar nuestra direccion AV.Vicuña 211."
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.484"
                 app:layout_constraintStart_toStartOf="parent"
