@@ -12,6 +12,7 @@
         android:layout_width="290dp"
         android:layout_height="313dp"
         android:layout_marginBottom="28dp"
+        app:cardBackgroundColor="#F7A9D6CA"
         app:cardCornerRadius="25dp"
         app:layout_constraintBottom_toTopOf="@+id/cardView2"
         app:layout_constraintEnd_toEndOf="parent"
@@ -165,9 +166,10 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView2"
-        android:layout_width="318dp"
-        android:layout_height="30dp"
+        android:layout_width="328dp"
+        android:layout_height="37dp"
         android:layout_marginBottom="32dp"
+        app:cardBackgroundColor="#F7A9D6CA"
         app:cardCornerRadius="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

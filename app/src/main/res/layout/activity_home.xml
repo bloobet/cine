@@ -10,6 +10,7 @@
     <androidx.cardview.widget.CardView
         android:layout_width="299dp"
         android:layout_height="129dp"
+        app:cardBackgroundColor="#F7A9D6CA"
         app:cardCornerRadius="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -62,7 +63,8 @@
                         android:id="@+id/button8"
                         android:layout_width="142dp"
                         android:layout_height="match_parent"
-                        android:text="Favoritos"
+                        android:onClick="Opiniones"
+                        android:text="Opiniones"
                         app:cornerRadius="25dp" />
 
                     <Space
@@ -73,6 +75,7 @@
                         android:id="@+id/button7"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:onClick="Clases"
                         android:text="sugerencias"
                         app:cornerRadius="25dp" />
                 </TableRow>

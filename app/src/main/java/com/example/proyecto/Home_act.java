@@ -51,4 +51,14 @@ public class Home_act extends AppCompatActivity {
         Intent i = new Intent(this , Medios_act.class);
         startActivity(i);
     }
+    public void Opiniones(View view)
+    {
+        Intent i = new Intent(this , opiniones_act.class);
+        startActivity(i);
+    }
+    public void Clases(View view)
+    {
+        Intent i = new Intent(this , Clases_act.class);
+        startActivity(i);
+    }
 }
