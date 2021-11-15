@@ -68,6 +68,8 @@ public class MainActivity extends AppCompatActivity {
             return null;
         }
 
+
+
         @Override
         protected void onPostExecute(String s) {
             super.onPostExecute(s);
@@ -152,4 +154,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void Salir(View v){
+        finish();
+    }
 }
